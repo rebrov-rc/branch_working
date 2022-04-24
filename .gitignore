@@ -5,6 +5,7 @@ tmp/
 
 Thumbs.db
 
+.idea/
 
 *_old
 *_backup
